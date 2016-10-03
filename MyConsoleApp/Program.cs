@@ -10,6 +10,7 @@ namespace MyConsoleApp
     {
         static void Main()
         {
+            Console.WriteLine("Hello source control!")
         }
     }
 }
