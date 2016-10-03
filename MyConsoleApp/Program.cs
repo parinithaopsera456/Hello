@@ -10,7 +10,12 @@ namespace MyConsoleApp
     {
         static void Main()
         {
-            Console.WriteLine("Hello source control!")
+            Console.WriteLine("Hello source control!");
+            Console.WriteLine("Press any key to continue...");
+            Console.ReadKey();
+
+            
+            
         }
     }
 }
