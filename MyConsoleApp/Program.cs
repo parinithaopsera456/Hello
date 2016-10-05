@@ -12,10 +12,8 @@ namespace MyConsoleApp
         {
             Console.WriteLine("Hello source control!");
             Console.WriteLine("Press any key to continue...");
+            Console.WriteLine("pbjohn1978 was here... :)");
             Console.ReadKey();
-
-            
-            
         }
     }
 }
